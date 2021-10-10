@@ -1,2 +1,2 @@
 # datasets_reviewdisneyland
-dataset review, desc
+https://www.kaggle.com/arushchillar/disneyland-reviews
